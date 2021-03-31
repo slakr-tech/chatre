@@ -7,7 +7,7 @@ dnspython==2.0.0
 Flask==1.1.2
 gunicorn==20.0.4
 itsdangerous==1.1.0
-lxml==4.6.2
+lxml==4.6.3
 premailer==3.7.0
 pymongo==3.11.2
 Werkzeug==1.0.1
